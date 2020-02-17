@@ -9,6 +9,7 @@ MySQL  SQLyog(图形化工具)
 
 #### 项目结构：  
 ![项目结构](https://images.gitee.com/uploads/images/2020/0217/185748_c2f36ce3_1676226.png "屏幕截图.png")
+![导入jar包](https://images.gitee.com/uploads/images/2020/0217/191000_05dae38e_1676226.png)
 
 #### 数据库结构:  
 ![数据库项目结构](https://images.gitee.com/uploads/images/2020/0217/183641_9b40a83b_1676226.png "屏幕截图.png")
